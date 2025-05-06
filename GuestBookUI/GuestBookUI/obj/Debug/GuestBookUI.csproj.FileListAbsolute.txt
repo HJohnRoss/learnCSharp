@@ -1,0 +1,10 @@
+C:\Users\rossj\code\csharp_master\GuestBookUI\GuestBookUI\bin\Debug\GuestBookUI.exe.config
+C:\Users\rossj\code\csharp_master\GuestBookUI\GuestBookUI\bin\Debug\GuestBookUI.exe
+C:\Users\rossj\code\csharp_master\GuestBookUI\GuestBookUI\bin\Debug\GuestBookUI.pdb
+C:\Users\rossj\code\csharp_master\GuestBookUI\GuestBookUI\bin\Debug\GuestBookLibrary.dll
+C:\Users\rossj\code\csharp_master\GuestBookUI\GuestBookUI\bin\Debug\GuestBookLibrary.pdb
+C:\Users\rossj\code\csharp_master\GuestBookUI\GuestBookUI\obj\Debug\GuestBookUI.csproj.AssemblyReference.cache
+C:\Users\rossj\code\csharp_master\GuestBookUI\GuestBookUI\obj\Debug\GuestBookUI.csproj.CoreCompileInputs.cache
+C:\Users\rossj\code\csharp_master\GuestBookUI\GuestBookUI\obj\Debug\GuestBoo.5BCD4773.Up2Date
+C:\Users\rossj\code\csharp_master\GuestBookUI\GuestBookUI\obj\Debug\GuestBookUI.exe
+C:\Users\rossj\code\csharp_master\GuestBookUI\GuestBookUI\obj\Debug\GuestBookUI.pdb

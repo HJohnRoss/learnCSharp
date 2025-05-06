@@ -1,0 +1,6 @@
+C:\Users\rossj\code\csharp_master\MultiSolutionUI\MultiSolutionLibrary\bin\Debug\MultiSolutionLibrary.dll
+C:\Users\rossj\code\csharp_master\MultiSolutionUI\MultiSolutionLibrary\bin\Debug\MultiSolutionLibrary.pdb
+C:\Users\rossj\code\csharp_master\MultiSolutionUI\MultiSolutionLibrary\obj\Debug\MultiSolutionLibrary.csproj.AssemblyReference.cache
+C:\Users\rossj\code\csharp_master\MultiSolutionUI\MultiSolutionLibrary\obj\Debug\MultiSolutionLibrary.csproj.CoreCompileInputs.cache
+C:\Users\rossj\code\csharp_master\MultiSolutionUI\MultiSolutionLibrary\obj\Debug\MultiSolutionLibrary.dll
+C:\Users\rossj\code\csharp_master\MultiSolutionUI\MultiSolutionLibrary\obj\Debug\MultiSolutionLibrary.pdb

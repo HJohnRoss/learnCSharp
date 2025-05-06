@@ -1,0 +1,6 @@
+C:\Users\rossj\code\csharp_master\GuestBookUI\GuestBookLibrary\bin\Debug\GuestBookLibrary.dll
+C:\Users\rossj\code\csharp_master\GuestBookUI\GuestBookLibrary\bin\Debug\GuestBookLibrary.pdb
+C:\Users\rossj\code\csharp_master\GuestBookUI\GuestBookLibrary\obj\Debug\GuestBookLibrary.csproj.AssemblyReference.cache
+C:\Users\rossj\code\csharp_master\GuestBookUI\GuestBookLibrary\obj\Debug\GuestBookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\rossj\code\csharp_master\GuestBookUI\GuestBookLibrary\obj\Debug\GuestBookLibrary.dll
+C:\Users\rossj\code\csharp_master\GuestBookUI\GuestBookLibrary\obj\Debug\GuestBookLibrary.pdb

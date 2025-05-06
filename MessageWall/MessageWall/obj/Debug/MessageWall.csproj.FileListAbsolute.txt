@@ -1,0 +1,10 @@
+C:\Users\rossj\code\csharp_master\MessageWall\MessageWall\bin\Debug\MessageWall.exe.config
+C:\Users\rossj\code\csharp_master\MessageWall\MessageWall\bin\Debug\MessageWall.exe
+C:\Users\rossj\code\csharp_master\MessageWall\MessageWall\bin\Debug\MessageWall.pdb
+C:\Users\rossj\code\csharp_master\MessageWall\MessageWall\obj\Debug\MessageWall.csproj.AssemblyReference.cache
+C:\Users\rossj\code\csharp_master\MessageWall\MessageWall\obj\Debug\MessageWall.Properties.Resources.resources
+C:\Users\rossj\code\csharp_master\MessageWall\MessageWall\obj\Debug\MessageWall.csproj.GenerateResource.cache
+C:\Users\rossj\code\csharp_master\MessageWall\MessageWall\obj\Debug\MessageWall.csproj.CoreCompileInputs.cache
+C:\Users\rossj\code\csharp_master\MessageWall\MessageWall\obj\Debug\MessageWall.exe
+C:\Users\rossj\code\csharp_master\MessageWall\MessageWall\obj\Debug\MessageWall.pdb
+C:\Users\rossj\code\csharp_master\MessageWall\MessageWall\obj\Debug\MessageWall.Dashboard.resources

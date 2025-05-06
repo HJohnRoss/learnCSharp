@@ -1,0 +1,14 @@
+C:\Users\rossj\code\csharp_master\StudentCheck\StudentCheck\bin\Debug\net8.0\StudentCheck.exe
+C:\Users\rossj\code\csharp_master\StudentCheck\StudentCheck\bin\Debug\net8.0\StudentCheck.deps.json
+C:\Users\rossj\code\csharp_master\StudentCheck\StudentCheck\bin\Debug\net8.0\StudentCheck.runtimeconfig.json
+C:\Users\rossj\code\csharp_master\StudentCheck\StudentCheck\bin\Debug\net8.0\StudentCheck.dll
+C:\Users\rossj\code\csharp_master\StudentCheck\StudentCheck\bin\Debug\net8.0\StudentCheck.pdb
+C:\Users\rossj\code\csharp_master\StudentCheck\StudentCheck\obj\Debug\net8.0\StudentCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rossj\code\csharp_master\StudentCheck\StudentCheck\obj\Debug\net8.0\StudentCheck.AssemblyInfoInputs.cache
+C:\Users\rossj\code\csharp_master\StudentCheck\StudentCheck\obj\Debug\net8.0\StudentCheck.AssemblyInfo.cs
+C:\Users\rossj\code\csharp_master\StudentCheck\StudentCheck\obj\Debug\net8.0\StudentCheck.csproj.CoreCompileInputs.cache
+C:\Users\rossj\code\csharp_master\StudentCheck\StudentCheck\obj\Debug\net8.0\StudentCheck.dll
+C:\Users\rossj\code\csharp_master\StudentCheck\StudentCheck\obj\Debug\net8.0\refint\StudentCheck.dll
+C:\Users\rossj\code\csharp_master\StudentCheck\StudentCheck\obj\Debug\net8.0\StudentCheck.pdb
+C:\Users\rossj\code\csharp_master\StudentCheck\StudentCheck\obj\Debug\net8.0\StudentCheck.genruntimeconfig.cache
+C:\Users\rossj\code\csharp_master\StudentCheck\StudentCheck\obj\Debug\net8.0\ref\StudentCheck.dll

@@ -1,0 +1,11 @@
+C:\Users\rossj\code\csharp_master\UniteTestsDemo\UniteTestsDemo\bin\Debug\net8.0\UniteTestsDemo.deps.json
+C:\Users\rossj\code\csharp_master\UniteTestsDemo\UniteTestsDemo\bin\Debug\net8.0\UniteTestsDemo.dll
+C:\Users\rossj\code\csharp_master\UniteTestsDemo\UniteTestsDemo\bin\Debug\net8.0\UniteTestsDemo.pdb
+C:\Users\rossj\code\csharp_master\UniteTestsDemo\UniteTestsDemo\obj\Debug\net8.0\UniteTestsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rossj\code\csharp_master\UniteTestsDemo\UniteTestsDemo\obj\Debug\net8.0\UniteTestsDemo.AssemblyInfoInputs.cache
+C:\Users\rossj\code\csharp_master\UniteTestsDemo\UniteTestsDemo\obj\Debug\net8.0\UniteTestsDemo.AssemblyInfo.cs
+C:\Users\rossj\code\csharp_master\UniteTestsDemo\UniteTestsDemo\obj\Debug\net8.0\UniteTestsDemo.csproj.CoreCompileInputs.cache
+C:\Users\rossj\code\csharp_master\UniteTestsDemo\UniteTestsDemo\obj\Debug\net8.0\UniteTestsDemo.dll
+C:\Users\rossj\code\csharp_master\UniteTestsDemo\UniteTestsDemo\obj\Debug\net8.0\refint\UniteTestsDemo.dll
+C:\Users\rossj\code\csharp_master\UniteTestsDemo\UniteTestsDemo\obj\Debug\net8.0\UniteTestsDemo.pdb
+C:\Users\rossj\code\csharp_master\UniteTestsDemo\UniteTestsDemo\obj\Debug\net8.0\ref\UniteTestsDemo.dll

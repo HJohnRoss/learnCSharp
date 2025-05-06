@@ -1,0 +1,7 @@
+C:\Users\rossj\code\csharp_master\InstantiatedClasses\InstantiatedClasses\bin\Debug\InstantiatedClasses.exe.config
+C:\Users\rossj\code\csharp_master\InstantiatedClasses\InstantiatedClasses\bin\Debug\InstantiatedClasses.exe
+C:\Users\rossj\code\csharp_master\InstantiatedClasses\InstantiatedClasses\bin\Debug\InstantiatedClasses.pdb
+C:\Users\rossj\code\csharp_master\InstantiatedClasses\InstantiatedClasses\obj\Debug\InstantiatedClasses.csproj.AssemblyReference.cache
+C:\Users\rossj\code\csharp_master\InstantiatedClasses\InstantiatedClasses\obj\Debug\InstantiatedClasses.csproj.CoreCompileInputs.cache
+C:\Users\rossj\code\csharp_master\InstantiatedClasses\InstantiatedClasses\obj\Debug\InstantiatedClasses.exe
+C:\Users\rossj\code\csharp_master\InstantiatedClasses\InstantiatedClasses\obj\Debug\InstantiatedClasses.pdb

@@ -1,0 +1,7 @@
+C:\Users\rossj\code\csharp_master\StaticClassesDemo\StaticClassesDemo\bin\Debug\StaticClassesDemo.exe.config
+C:\Users\rossj\code\csharp_master\StaticClassesDemo\StaticClassesDemo\bin\Debug\StaticClassesDemo.exe
+C:\Users\rossj\code\csharp_master\StaticClassesDemo\StaticClassesDemo\bin\Debug\StaticClassesDemo.pdb
+C:\Users\rossj\code\csharp_master\StaticClassesDemo\StaticClassesDemo\obj\Debug\StaticClassesDemo.csproj.AssemblyReference.cache
+C:\Users\rossj\code\csharp_master\StaticClassesDemo\StaticClassesDemo\obj\Debug\StaticClassesDemo.csproj.CoreCompileInputs.cache
+C:\Users\rossj\code\csharp_master\StaticClassesDemo\StaticClassesDemo\obj\Debug\StaticClassesDemo.exe
+C:\Users\rossj\code\csharp_master\StaticClassesDemo\StaticClassesDemo\obj\Debug\StaticClassesDemo.pdb

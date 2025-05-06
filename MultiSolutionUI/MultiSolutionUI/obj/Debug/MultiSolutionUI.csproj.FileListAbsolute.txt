@@ -1,0 +1,10 @@
+C:\Users\rossj\code\csharp_master\MultiSolutionUI\MultiSolutionUI\bin\Debug\MultiSolutionUI.exe.config
+C:\Users\rossj\code\csharp_master\MultiSolutionUI\MultiSolutionUI\bin\Debug\MultiSolutionUI.exe
+C:\Users\rossj\code\csharp_master\MultiSolutionUI\MultiSolutionUI\bin\Debug\MultiSolutionUI.pdb
+C:\Users\rossj\code\csharp_master\MultiSolutionUI\MultiSolutionUI\bin\Debug\MultiSolutionLibrary.dll
+C:\Users\rossj\code\csharp_master\MultiSolutionUI\MultiSolutionUI\bin\Debug\MultiSolutionLibrary.pdb
+C:\Users\rossj\code\csharp_master\MultiSolutionUI\MultiSolutionUI\obj\Debug\MultiSolutionUI.csproj.AssemblyReference.cache
+C:\Users\rossj\code\csharp_master\MultiSolutionUI\MultiSolutionUI\obj\Debug\MultiSolutionUI.csproj.CoreCompileInputs.cache
+C:\Users\rossj\code\csharp_master\MultiSolutionUI\MultiSolutionUI\obj\Debug\MultiSol.CD9A76DD.Up2Date
+C:\Users\rossj\code\csharp_master\MultiSolutionUI\MultiSolutionUI\obj\Debug\MultiSolutionUI.exe
+C:\Users\rossj\code\csharp_master\MultiSolutionUI\MultiSolutionUI\obj\Debug\MultiSolutionUI.pdb
